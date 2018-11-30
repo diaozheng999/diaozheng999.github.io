@@ -1,0 +1,15 @@
+﻿body {
+    color: #ffffff;
+    background-color: #222222;
+}
+.navbar {
+    background-color: #222222;
+}
+.navbar .navbar-brand
+{
+    color:#ffffff;
+}
+.well {
+    background-color: #222222;
+}
+

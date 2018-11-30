@@ -1,0 +1,30 @@
+body {
+    color: #000;
+    background-color: #eee;
+}
+
+.navbar {
+    background-color: #eee;
+    border: none;
+}
+
+    .navbar .navbar-brand {
+        color: #000;
+    }
+
+.well {
+    background-color: #fff;
+}
+
+.m1-logo {
+    margin: 10px;
+    height: 70px;
+}
+
+.body-content {
+    margin-top: 50px;
+}
+
+.red {
+    color: #b94a48;
+}
