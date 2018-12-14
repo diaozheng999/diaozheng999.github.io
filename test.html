@@ -1,0 +1,10 @@
+<a href="#" id="test">Click Me!</a>
+<script type="text/javascript">
+document.getElementById("test").onclick = (function() {
+  if (window.__mym1) {
+    postMessage(JSON.stringify({action: "handleBack"}));
+  } else {
+    window.location.href = "https://www.google.com"; 
+  }
+})
+</script>
