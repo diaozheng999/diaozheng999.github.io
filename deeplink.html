@@ -12,7 +12,7 @@
       <div class="row">
 
           <div class="list-group" role="group">
-            <a class="list-group-item list-group-item-success" href="mym1:///app/more/rewards/dmp/3671707412285159045">Item (App) <small>mym1:///app/more/rewards/dmp/3671707412285159045</small></a>
+            <a class="list-group-item list-group-item-success" href="mym1:///app/more/rewards/dmp/3671707412285159045?s=81012542">Item (App, with Service ID) <small>mym1:///app/more/rewards/dmp/3671707412285159045</small></a>
             <a class="list-group-item list-group-item-success" href="https://mym1s.m1.com.sg/app/more/rewards/dmp/3671707412285159045">Item (Web) <small>https://mym1s.m1.com.sg/app/more/rewards/dmp/3671707412285159045</small></a>
             <a class="list-group-item list-group-item-danger" href="mym1:///app/rewards/dmp/3671707412285159045">Malformed Item 1 <small>mym1:///app/rewards/dmp/3671707412285159045</small></a>
             <a class="list-group-item list-group-item-danger" href="mym1:///more/rewards/dmp/3671707412285159045">Malformed Item 2 <small>mym1:///more/rewards/dmp/3671707412285159045</small></a>
@@ -45,6 +45,24 @@
     </div>
   </div> 
   
+  <div class="container-fluid">
+    <h2>Seamless</h2>
+    <p>Use <pre>01overwerk</pre></p>
+    <div class="row">
+      <div class="list-group" role="group">
+        <a class="list-group-item list-group-item-success" href="mym1:///app/seamless/serviceid?s=81012542&appId=dmp&redirectId=5">App Service Level (Netflix)</a>
+        <a class="list-group-item list-group-item-success" href="https://mym1s.m1.com.sg/app/seamless/serviceid?s=81012542&appId=dmp&redirectId=5">Web Service Level (Netflix)</a>
+        <a class="list-group-item list-group-item-success" href="mym1:///app/seamless/m1id?s=81012542&appId=dmp&redirectId=0">App Acct Level (CitiBank)</a>
+        <a class="list-group-item list-group-item-success" href="https://mym1s.m1.com.sg/app/seamless/m1id?s=81012542&appId=dmp&redirectId=0">App Acct Level (CitiBank)</a>
+        <a class="list-group-item list-group-item-danger" href="mym1:///app/serviceid?appId=dmp&redirectId=5">Malformed</a>
+        <a class="list-group-item list-group-item-danger" href="mym1:///app/serviceid??s=81012542&appId=blahblah&redirectId=5">Malformed 2</a>
+        <a class="list-group-item list-group-item-danger" href="mym1:///app/seamless/serviceid?s=81012542&appId=dmp&redirectId=-2">Malformed 3</a>
+        <a class="list-group-item list-group-item-warning" href="mym1:///app/seamless/serviceid?s=81012542&appId=dmp&redirectId=5&SERVICE_ID=81012542">Additional stuff</a>
+      </div>
+    </div>
+  </div>
+</div> 
+
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
