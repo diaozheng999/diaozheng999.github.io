@@ -32,10 +32,10 @@ Weird, but should still pass.
 - [Additional query parameters (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012511&)
 - [Additional query parameters with stuff (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012511&cat=dog)
 - [HBB Cyber Guardian with MBB/GSM vasid](mym1:///app/account/valueaddedservices/176b94ab-e6e3-4a29-91ff-57b30e9a26f3/19152)
+- [Non-terminal link (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11548/do)
 
 ## Invalid cases (staging)
 
-- [Non-terminal link (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11548/do)
 - [link typo (Bundle Pack)](mym1:///app/account/valueaddedservice/b04db9df-6c50-447c-b797-596df0c9345b/11548)
 - [Weird query strings (Invalid) (M1 Cyber Guardian GSM)](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066?s=81012511/19152)
 - [Customer (81012542) not allowed (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542)
