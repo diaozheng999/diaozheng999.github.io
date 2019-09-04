@@ -23,4 +23,4 @@
 
 - [Non-terminal link](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11548/do)
 - [link typo](mym1:///app/account/valueaddedservice/b04db9df-6c50-447c-b797-596df0c9345b/11548)
-- [query misplacement](mym1:///app/account/valueaddedservice/70f192a4-9728-435b-bb1c-f1f11267f066?q=81012511/19152)
+- [query misplacement](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066?q=81012511/19152)
