@@ -25,6 +25,7 @@
 - [VASID is not part of VAS Group (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/1234)
 - [VASID is not part of VAS Group (Use VAS Group UUID as VASID) (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/b04db9df-6c50-447c-b797-596df0c9345b)
 - [VASID is not part of Single target VAS Group (M1 Cyber Guardian GSM)](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066/1234)
+- [$10 Bundle Pack (subscribed), targeted 86927103](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11527?s=86927103)
 - [Random stuff at the end of VAS Group (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/index.do)
 - [Customer (81012542) not allowed (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542)
 - [Additional query parameters (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542&)
