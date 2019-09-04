@@ -21,15 +21,16 @@
 
 ## Edge cases (staging)
 
+Weird, but should still pass.
+
 - [Weird query strings (Valid) (M1 Cyber Guardian GSM)](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066?q=81012511/19152)
 - [VASID is not part of VAS Group (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/1234)
 - [VASID is not part of VAS Group (Use VAS Group UUID as VASID) (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/b04db9df-6c50-447c-b797-596df0c9345b)
 - [VASID is not part of Single target VAS Group (M1 Cyber Guardian GSM)](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066/1234)
 - [$10 Bundle Pack (subscribed), targeted 86927103](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11527?s=86927103)
 - [Random stuff at the end of VAS Group (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/index.do)
-- [Customer (81012542) not allowed (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542)
-- [Additional query parameters (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542&)
-- [Additional query parameters with stuff (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542&cat=dog)
+- [Additional query parameters (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012511&)
+- [Additional query parameters with stuff (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012511&cat=dog)
 - [HBB Cyber Guardian with MBB/GSM vasid](mym1:///app/account/valueaddedservices/176b94ab-e6e3-4a29-91ff-57b30e9a26f3/19152)
 
 ## Invalid cases (staging)
@@ -37,3 +38,4 @@
 - [Non-terminal link (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b/11548/do)
 - [link typo (Bundle Pack)](mym1:///app/account/valueaddedservice/b04db9df-6c50-447c-b797-596df0c9345b/11548)
 - [Weird query strings (Invalid) (M1 Cyber Guardian GSM)](mym1:///app/account/valueaddedservices/70f192a4-9728-435b-bb1c-f1f11267f066?s=81012511/19152)
+- [Customer (81012542) not allowed (Bundle Pack)](mym1:///app/account/valueaddedservices/b04db9df-6c50-447c-b797-596df0c9345b?s=81012542)
