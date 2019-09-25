@@ -26,6 +26,14 @@
 - [Roaming Subscription](https://mym1.m1.com.sg/app/roaming/roamingservices/12006?s=hbb000159531)
 - [Roaming Services](https://mym1.m1.com.sg/app/roaming/roamingservices/subscribemore)
 
+## Roaming Usages
+- [Roaming Data applink](mym1://app/roaming/usage/data)
+- [Roaming Data weblink](https://mym1.m1.com.sg/app/roaming/usage/data)
+- [Roaming Talktime applink](mym1://app/roaming/usage/talktime)
+- [Roaming Talktime weblink](https://mym1.m1.com.sg/app/roaming/usage/talktime)
+- [Roaming Messages applink](mym1://app/roaming/usage/messages)
+- [Roaming Messages weblink](https://mym1.m1.com.sg/app/roaming/usage/messages)
+
 ## To summon the devil
 - [Express Agreement](mym1:///app/roaming/roamingservices/19390)
 - [Network Lock](mym1:///app/roaming/roamingservices/20036)
