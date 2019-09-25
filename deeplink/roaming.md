@@ -27,11 +27,11 @@
 - [Roaming Services](https://mym1.m1.com.sg/app/roaming/roamingservices/subscribemore)
 
 ## Roaming Usages
-- [Roaming Data applink](mym1://app/roaming/usage/data)
+- [Roaming Data applink](mym1:///app/roaming/usage/data)
 - [Roaming Data weblink](https://mym1.m1.com.sg/app/roaming/usage/data)
-- [Roaming Talktime applink](mym1://app/roaming/usage/talktime)
+- [Roaming Talktime applink](mym1:///app/roaming/usage/talktime)
 - [Roaming Talktime weblink](https://mym1.m1.com.sg/app/roaming/usage/talktime)
-- [Roaming Messages applink](mym1://app/roaming/usage/messages)
+- [Roaming Messages applink](mym1:///app/roaming/usage/messages)
 - [Roaming Messages weblink](https://mym1.m1.com.sg/app/roaming/usage/messages)
 
 ## To summon the devil
